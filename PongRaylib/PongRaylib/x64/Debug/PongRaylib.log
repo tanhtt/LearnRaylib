@@ -1,0 +1,15 @@
+﻿  PongRaylib.cpp
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(14,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(14,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(14,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(18,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(19,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(65,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(65,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(65,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(65,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(133,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Coding\cplus\PongRaylib\PongRaylib\PongRaylib.cpp(136,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PongRaylib.vcxproj -> D:\Coding\cplus\PongRaylib\x64\Debug\PongRaylib.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
