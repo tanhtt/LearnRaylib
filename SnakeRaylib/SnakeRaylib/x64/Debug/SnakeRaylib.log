@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\Coding\cplus\LearningRaylib\SnakeRaylib\SnakeRaylib\Main.cpp(58,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Coding\cplus\LearningRaylib\SnakeRaylib\SnakeRaylib\Main.cpp(58,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Coding\cplus\LearningRaylib\SnakeRaylib\SnakeRaylib\Main.cpp(62,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Coding\cplus\LearningRaylib\SnakeRaylib\SnakeRaylib\Main.cpp(63,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SnakeRaylib.vcxproj -> D:\Coding\cplus\LearningRaylib\SnakeRaylib\x64\Debug\SnakeRaylib.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
