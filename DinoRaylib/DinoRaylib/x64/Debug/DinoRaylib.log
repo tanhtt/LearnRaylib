@@ -1,0 +1,6 @@
+﻿  Dino.cpp
+D:\Coding\cplus\LearningRaylib\DinoRaylib\DinoRaylib\Dino.cpp(43,14): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Coding\cplus\LearningRaylib\DinoRaylib\DinoRaylib\Dino.cpp(43,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  DinoRaylib.vcxproj -> D:\Coding\cplus\LearningRaylib\DinoRaylib\x64\Debug\DinoRaylib.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
