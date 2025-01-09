@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2692D90C-3873-44AA-8EE7-334EDA605447}|Tetris\\Tetris.vcxproj|D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Blocks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -18,30 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Game.cpp",
+              "RelativeDocumentMoniker": "Tetris\\Game.cpp",
+              "ToolTip": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Game.cpp",
+              "RelativeToolTip": "Tetris\\Game.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T02:09:02.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Game.h",
+              "RelativeDocumentMoniker": "Tetris\\Game.h",
+              "ToolTip": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Game.h",
+              "RelativeToolTip": "Tetris\\Game.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-09T02:03:23.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Block.cpp",
+              "DocumentMoniker": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Block.cpp",
+              "RelativeDocumentMoniker": "Tetris\\Block.cpp",
+              "ToolTip": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Block.cpp",
+              "RelativeToolTip": "Tetris\\Block.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T01:00:27.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.h",
+              "DocumentMoniker": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Color.h",
+              "RelativeDocumentMoniker": "Tetris\\Color.h",
+              "ToolTip": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Color.h",
+              "RelativeToolTip": "Tetris\\Color.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-09T00:59:41.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Blocks.cpp",
               "DocumentMoniker": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Blocks.cpp",
               "RelativeDocumentMoniker": "Tetris\\Blocks.cpp",
               "ToolTip": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\Blocks.cpp",
               "RelativeToolTip": "Tetris\\Blocks.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-08T03:42:28.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\main.cpp",
               "RelativeDocumentMoniker": "Tetris\\main.cpp",
               "ToolTip": "D:\\Coding\\cplus\\LearningRaylib\\Tetris\\Tetris\\main.cpp",
               "RelativeToolTip": "Tetris\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-07T03:21:19.326Z",
               "EditorCaption": ""

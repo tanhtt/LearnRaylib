@@ -1,6 +1,5 @@
 #include <raylib.h>
-#include "Grid.h"
-#include "Blocks.cpp";
+#include "Game.h"
 
 int main()
 {
@@ -9,19 +8,18 @@ int main()
 	const int screenHeight = 600;
 	InitWindow(screenWidth, screenHeight, "Tetris");
 	SetTargetFPS(60);
-
-	Grid grid = Grid();
-	grid.Print();
-
-	ZBlock block = ZBlock();
 	
+	Game game = Game();
+
 	// Game Loop
 	while (!WindowShouldClose())
 	{
 		BeginDrawing();
+
+		game.Update();
+
 		ClearBackground(darkBlue);
-		grid.Draw();
-		block.Draw();
+		game.Draw();
 		EndDrawing();
 	}
 
